@@ -1,8 +1,4 @@
-![](https://user-images.githubusercontent.com/125879861/255391401-371f3a64-732d-4954-ac0f-4f093a6605e1.png)
 
-<br>
-
-<p align="center"><strong>「 A Pyrogram based Telegram Bot to Transfer Files / Folders to Telegram and Google Drive with the help of Google Colab With Multi-Functionality 」</strong></p>
 
 <br>
 
@@ -54,9 +50,6 @@
 - Upload Files of size upto 2000 MB
 - Premium Upload upto 4000 MB ( Coming Soon ♨️)
 
-## **🚀 UPTO 200 MiB/s Download Speed and 30 MiB/s Upload Speed**
-
-![Image 1](https://user-images.githubusercontent.com/125879861/245217970-aa132967-c304-4b6d-a594-8c57a8f3d066.png)
 
 ## **🦉 Problems**
 
@@ -70,10 +63,6 @@
 - Downloading `YouTube Video without permission of the owner` can lead to copyright issues. Use with Caution
 
 ## **🤙🏼 Connect With Us**
-
-<a href="https://t.me/Colab_Leecher" target="_parent"><img src="https://img.shields.io/badge/-Channel-blue?color=white&logo=telegram&logoColor=vlue"></a>
-
-<a href="https://t.me/Colab_Leecher_Discuss" target="_parent"><img src="https://img.shields.io/badge/-Group-blue?color=white&logo=telegram&logoColor=vlue"></a>
 
 
 ## **⚖️ License**
