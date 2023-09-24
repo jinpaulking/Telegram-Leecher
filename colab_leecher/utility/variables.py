@@ -29,7 +29,7 @@ class BOT:
         unzip_pswd = ""
 
     class Mode:
-        mode = "leech"
+        mode = "mirror"
         type = "normal"
         ytdl = False
 
@@ -77,7 +77,7 @@ class Paths:
     MOUNTED_DRIVE = "/content/drive"
     down_path = f"{WORK_PATH}/Downloads"
     temp_dirleech_path = f"{WORK_PATH}/dir_leech_temp"
-    mirror_dir = "/content/drive/MyDrive/Colab Leecher Uploads"
+    mirror_dir = "/content/downloads"
     temp_zpath = f"{WORK_PATH}/Leeched_Files"
     temp_unzip_path = f"{WORK_PATH}/Unzipped_Files"
     temp_files_dir = f"{WORK_PATH}/dir_leech_temp"
