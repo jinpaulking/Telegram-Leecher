@@ -118,7 +118,7 @@ async def setPrefix(client, message):
 
 @colab_bot.on_message(filters.create(isLink) & ~filters.photo)
 async def handle_url(client, message):
-    success = await Do_Mirror(source, is_ytdl, is_zip, is_unzip, is_dualzip)
+    success = await await Do_Mirror(BOT.SOURCE, BOT.Mode.ytdl, is_zip, is_unzip, is_dualzip)
     if success:
         msg = await message.reply_text("**Link Successfully Added ✅**")
         await message.delete()
